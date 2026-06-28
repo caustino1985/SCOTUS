@@ -1,0 +1,6 @@
+{
+  "name": "SCOTUS Exhibition",
+  "description": "Immersive educational exhibition on Caustin Lee McLaughlin's SCOTUS petitions, featuring documents, timelines, and Gemini-powered audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
